@@ -1,4 +1,3 @@
-time
 cv2
 mss
 numpy

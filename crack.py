@@ -1,11 +1,9 @@
-import time
 import cv2
 import mss
 import numpy
 import pytesseract
 import pyautogui
 from time import sleep
-import requests
 
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 firstRun = True
