@@ -1,5 +1,5 @@
 # 10FastFingersOnCrack
-This scirpt allows you to cheat on the website called 10FastFingers.
+This scirpt allows you to cheat on the website called [10FastFingers](https://10fastfingers.com/typing-test/english).
 # Disclaimer
 This can and probably will get you banned.
 # How to setup
