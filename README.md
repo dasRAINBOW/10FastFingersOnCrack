@@ -1,7 +1,8 @@
 # 10FastFingersOnCrack
 This scirpt allows you to cheat on the website called [10FastFingers](https://10fastfingers.com/typing-test/english).
 # Disclaimer
-This can and probably will get you banned.
+This can and probably will get you banned. <br>
+This only works 100% in english.
 # How to setup
 To use it you need [python](python.org) and [tesseract](https://tesseract-ocr.github.io) so install it. <br>
 After you installed python you need to open the command prompt in the folder and type: <br>
