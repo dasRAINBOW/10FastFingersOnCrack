@@ -28,8 +28,6 @@ def normMode():
             firstRun = False
             textOld = text
 
-            cv2.imshow('Image', im)
-
 def specialMode():
     sleep(1)
     with mss.mss() as sct:
