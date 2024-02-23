@@ -5,11 +5,11 @@ This can and probably will get you banned. <br>
 This only works 100% in english.
 # How to setup
 To use it you need [python](python.org) and [tesseract](https://tesseract-ocr.github.io) so install it. <br>
-After you installed python you need to open the command prompt in the folder and type: <br>
+After you installed python and tesseract you need to open the command prompt in the folder and type: <br>
 ```pip install -r requirements.txt``` <br>
 That's all.
 # How to use
-Open the website in your webbrowser (optimized for [Vivaldi](https://vivaldi.com)) put your browser on your main monitor and maximize it. <br>
+Open the website in your webbrowser put your browser on your main monitor and maximize it. <br>
 Next you need to open the script, and then select which mode you want: <br>
 - Norm mode is for the normal type test:
 ![Image of when to use norm mode](https://github.com/dasRAINBOW/10FastFingersOnCrack/blob/main/imgs_for_readme/norm.png?raw=true)

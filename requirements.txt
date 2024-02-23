@@ -1,6 +1,4 @@
-cv2
 mss
 numpy
 pytesseract
 pyautogui
-time
